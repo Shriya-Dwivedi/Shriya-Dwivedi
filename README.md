@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shriya Dwivedi</h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Developer;Hackathon+Winner;Building+Impactful+Tech" />
+</p>
 <h3 align="center">B.Tech CSE (Data Science) | AI & Full-Stack Developer</h3>
 
 <p align="center">
